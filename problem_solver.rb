@@ -8,8 +8,10 @@ class ProblemSolver
     def solve_tough_problem
     end
     
-    def solve_stupid_problem
+    def solve_strange_problem
     end
 
+    def solve_daily_problem
+    end
 end
 
