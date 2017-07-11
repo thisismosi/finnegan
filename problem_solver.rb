@@ -7,5 +7,9 @@ class ProblemSolver
     
     def solve_tough_problem
     end
+    
+    def solve_stupid_problem
+    end
+
 end
 
